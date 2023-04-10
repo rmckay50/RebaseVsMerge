@@ -13,6 +13,7 @@ namespace RebaseVsMerge
             Console.WriteLine("first commit in main");
             Console.WriteLine("second commit in main");
             Console.WriteLine("3rd main");
+            Console.WriteLine("4th main");
             Console.ReadLine();
         }
     }
