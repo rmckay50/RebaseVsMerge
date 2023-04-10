@@ -11,6 +11,7 @@ namespace RebaseVsMerge
         static void Main(string[] args)
         {
             Console.WriteLine("first commit in main");
+            Console.WriteLine("first commit in FirstBranch");
             Console.ReadLine();
         }
     }
