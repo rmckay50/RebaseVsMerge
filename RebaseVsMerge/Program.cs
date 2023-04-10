@@ -12,6 +12,7 @@ namespace RebaseVsMerge
         {
             Console.WriteLine("first commit in main");
             Console.WriteLine("first commit in FirstBranch");
+            Console.WriteLine("second commit in FB");
             Console.ReadLine();
         }
     }
